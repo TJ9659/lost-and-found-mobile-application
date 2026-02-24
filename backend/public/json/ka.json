@@ -1,0 +1,14 @@
+{
+  "KA": {
+    "G": ["Reception", "Administrative Offices", "Lecture Theatres", "Bookstore", "Taiwan Education Centre"],
+    "Mezzanine": ["Café", "Meeting Rooms", "Labs", "Faculty Offices"],
+    "1": ["Labs", "Postgraduate Offices", "Library Workshop", "Reading Room", "Surau (Male)"],
+    "2": ["Labs", "Multimedia Resource Centre", "Display Museum", "Tutorial Rooms", "Academic Staff Rooms"],
+    "3": ["Academic Staff Rooms", "Simulation Ward", "Physiotherapy Centre", "Wet Tutorial Rooms", "Gymnasium"],
+    "4": ["Computer and Internet Labs", "Tutorial Rooms", "Lecture Rooms"],
+    "5": ["Lecture Rooms", "Tutorial Rooms", "Roof Garden"],
+    "6": ["Meeting Rooms", "Postgraduate Rooms", "Faculty Offices"],
+    "7": ["Lecture Hall", "Lecture Rooms"],
+    "8": ["Tutorial Rooms", "Roof Garden", "Lecture Rooms"]
+  }
+}

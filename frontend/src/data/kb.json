@@ -1,0 +1,15 @@
+{
+  "KB": {
+    "G": ["Administrative Offices", "Meeting Rooms", "Multipurpose Hall"],
+    "1": ["Lecture Theatres", "Tutorial Rooms", "Lecture Rooms", "Gym", "Student Activity Area"],
+    "2": ["Lecture Rooms", "Lecture Theatres", "Academic Staff Rooms", "Surau (Female)"],
+    "3": ["Lecture Rooms", "Tutorial Rooms", "Academic Staff Rooms"],
+    "3A": ["Labs", "Library Staff Rooms"],
+    "5": ["Labs", "Tutorial Rooms", "Lecture Rooms"],
+    "6": ["Labs", "Architecture Studio"],
+    "7": ["Labs", "Tutorial Rooms", "Photo/Art/Game/Design Rooms"],
+    "8": ["Academic Staff Rooms", "Faculty Offices", "Meeting Rooms", "Labs"],
+    "9": ["Labs", "Staff Rooms", "Faculty Offices"],
+    "10": ["Administrative Offices", "Conference Room", "Multimedia Room"]
+  }
+}

@@ -1,0 +1,15 @@
+[
+  { "code": "FCMHS", "name": "M. Kandiah Faculty of Medicine and Health Sciences (Sungai Long Campus)" },
+  { "code": "LKC_FES", "name": "Lee Kong Chian Faculty of Engineering and Science" },
+  { "code": "FEGT", "name": "Faculty of Engineering and Green Technology" },
+  { "code": "FICT", "name": "Faculty of Information and Communication Technology" },
+  { "code": "FS", "name": "Faculty of Science" },
+  { "code": "FAM", "name": "Faculty of Accountancy and Management (Sungai Long Campus)" },
+  { "code": "FCI", "name": "Faculty of Creative Industries" },
+  { "code": "IPSR", "name": "Institute of Postgraduate Studies & Research" },
+  { "code": "ICS", "name": "Institute of Chinese Studies" },
+  { "code": "IMLD", "name": "Institute of Management and Leadership Development" },
+  { "code": "CFS", "name": "Centre for Foundation Studies (Sungai Long Campus)" },
+  { "code": "CEE", "name": "Centre for Extension Education" },
+  { "code": "CCCD", "name": "Centre for Corporate and Community Development" }
+]
