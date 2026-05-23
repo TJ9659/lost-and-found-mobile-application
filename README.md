@@ -1,4 +1,4 @@
-## University-based Lost & Found System
+## University-based AI Lost & Found System
 
 This full-stack system streamlines campus lost-and-found management by combining automated image labeling with semantic search. Originally developed as a Final Year Project, it bridges the gap between physical offices and digital reporting.
 
