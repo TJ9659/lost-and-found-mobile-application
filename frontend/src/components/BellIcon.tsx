@@ -15,7 +15,7 @@ export default function BellIcon({ userId }: BellProps) {
   const [unreadCount, setUnreadCount] = useState(0);
 
   useEffect(() => {
-    if (!userId) return;
+    if (!userId) return null;
 
     const q = query(
       collection(db, "notifications", userId, "userNotifications"),
